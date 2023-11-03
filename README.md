@@ -15,7 +15,7 @@ Eat Safe, Love has specific questions they want you to answer, which will help t
 
 To run this script:
 1. Copy the git link and clone it in your local machine.
-2. Ensure *nosql-challenge*, *Resources* directories and *NoSQL_setup.ipynb*, *NoSQL_analysis.ipynb* files are present
+2. Ensure *Resources* directory, *NoSQL_setup.ipynb*, and *NoSQL_analysis.ipynb* files are present
 3. Ensure the *establishments.json* file is present in the *Resources* folder
 4. Run the script using **Jupyter Notebook** from *nosql-challenge* directory and view results
 5. Be sure to run the entire script using *Restart & Run All option* from *Kernel* in *Jupyter Notebook* to get error free results
